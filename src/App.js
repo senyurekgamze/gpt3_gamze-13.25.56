@@ -9,6 +9,8 @@ import {
   Header,
 } from "./containers";
 
+import "./App.css";
+
 import { CTA, Brand, Navbar } from "./components";
 
 function App() {

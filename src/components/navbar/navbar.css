@@ -108,6 +108,12 @@
   .gpt3__navbar {
     padding: 2rem 4rem;
   }
+  .gpt3__navbar-sign {
+    display: none;
+  }
+  .gpt3__navbar-menu_container-links-sign {
+    display: block;
+  }
 }
 
 @media screen and (max-width: 550px) {

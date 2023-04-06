@@ -1,7 +1,6 @@
 .gpt3__whatgpt3 {
   display: flex;
   flex-direction: column;
-
   padding: 2rem;
   background: var(--color-footer);
 
@@ -102,18 +101,6 @@
 
 .gpt3__whatgpt3-container .gpt3__features-container_feature-text {
   margin-top: 0.5rem;
-}
-
-@media screen and (max-width: 850px) {
-  .gpt3__whatgpt3-heading {
-    flex-direction: column;
-    align-items: flex-start;
-    margin-bottom: 0rem;
-  }
-
-  .gpt3__whatgpt3-heading p {
-    margin-top: 1rem;
-  }
 }
 
 @media screen and (max-width: 650px) {
